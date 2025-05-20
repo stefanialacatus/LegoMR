@@ -1,4 +1,4 @@
 # LegoMR - Proiect HCI 2025
-Iacobut Delia
+Iacobuț Denisa-Delia
 
-Lacatus Stefania
+Lăcătuș Ștefania

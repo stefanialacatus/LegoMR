@@ -36,7 +36,7 @@
        <li><strong>Navigare secvențială în pașii de construire</strong>: În aplicația mobilă, instrucțiunile de construire sunt afișate pas cu pas, cu butoane „->” și „<-” plasate vizibil în partea de jos a ecranului. Motiv: Reduce erorile și oferă control clar asupra progresului.</li>
         <li><strong>Integrare jocuri virtuale</strong>: După finalizarea unei figurine, ambele aplicații oferă un buton „Încearcă joc” sau „Simulare” care lansează un joc virtual asociat. Instrucțiunile jocului sunt disponibile printr-un buton „Instrucțiuni” înainte de start. Motiv: Crește implicarea utilizatorilor prin conectarea construcției fizice cu experiențe interactive.</li>
         <li><strong>Gestionarea setărilor utilizatorului</strong>: Secțiunea „Setări” din aplicația mobilă include butoane pentru „Schimbă parolă” și „Schimbă nume”, care deschid formulare cu validare prin buton, și „Istoric” care afișează o listă a figurinelor construite, cu detalii precum timpul alocat și dificultatea. Motiv: Asigură o experiență personalizată și permite utilizatorilor să reviziteze proiectele anterioare.</li>
-        <li><strong>Afișarea nivelului de dificultate</strong>: Nivelul de dificultate este afișat în meniul de selecție pentru figurine și jocuri, folosind indicatori vizuali stele. Motiv: Ajută utilizatorii, în special adolescenții, să aleagă activități potrivite nivelului lor de experiență.</li>
+        <li><strong>Afișarea nivelului de dificultate</strong>: Nivelul de dificultate este afișat în meniul de selecție pentru figurine și jocuri, folosind indicatori vizuali stele. Motiv: Ajută utilizatorii, în special adolescenții, să aleagă activități potrivite nivelului lor de experiență.</li> 
       </ul>
     </section>
     <section id="manual-utilizare">

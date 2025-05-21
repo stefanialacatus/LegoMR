@@ -5,7 +5,7 @@
 <body>
   <article>
     <header>
-      <h1>Documentație LegoMR - HCI 2025</h1>
+      <h1>Documentație HCI - LegoMR</h1>
       <p>Autori: Lăcătuș Ștefania, Iacobuț Denisa-Delia</p>
     </header>
     <section id="introducere">

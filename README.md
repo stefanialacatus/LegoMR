@@ -73,6 +73,10 @@
       <h2>5. Concluzii</h2>
       <p>Aplicațiile descrise facilitează colaborarea între părinte și adolescent prin integrarea tehnologiei mobile și MR în procesul de construire LEGO. Modelele de proiectare, cum ar fi navigarea bazată pe selecție, ghidarea augmentată și afișarea istoricului, reduc complexitatea, iar deciziile de design, precum afișarea nivelului de dificultate și gamificarea, sporesc implicarea. Manualul de utilizare oferă instrucțiuni clare, potrivite pentru utilizatori de toate vârstele. Limitările includ dependența de dispozitive compatibile și necesitatea unei dorințe de a fi captivat în lumea Lego.</p>
     </section>
+    <section id="AI">
+      <h2>Ajutor AI</h2>
+      <p>Am folosit AI pentru idei interfață MR, la resurse pentru aplicații similare, idei pentru modelele de proiectare și alte idei de implementare. </p>
+    </section>
   </article>
 </body>
 </html>
